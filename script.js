@@ -1,4 +1,4 @@
-const imageURL = "https://i.postimg.cc/d06Xbw4s/IMG-20250307-200918.jpg"; // Vishu's New Image
+const imageURL = "https://i.postimg.cc/d06Xbw4s/IMG-20250307-200918.jpg"; // 
 
 let puzzle = [];
 const container = document.getElementById("puzzle-container");
